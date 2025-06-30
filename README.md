@@ -11,3 +11,8 @@ Pasos para ejecutar proyecto:
 
 1. Ejecutar ```npm run build```
 2. Tomar la carpeta ```dist``` y desplegarla
+
+
+
+
+## author: ngallegu 
